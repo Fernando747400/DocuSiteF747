@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_f_747=self.webpackChunkdocu_f_747||[]).push([[1036],{7707:e=>{e.exports=JSON.parse('{"permalink":"/DOCUSITEF747/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
