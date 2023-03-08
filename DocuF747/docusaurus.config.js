@@ -21,6 +21,7 @@ const config = {
   organizationName: 'Fernando747400', // Usually your GitHub org/user name.
   projectName: 'DocuSiteF747', // Usually your repo name.
   deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
