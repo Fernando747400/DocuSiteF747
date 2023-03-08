@@ -7,21 +7,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Docu are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/DOCUSITEF747/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Fernando747400', // Usually your GitHub org/user name.
+  projectName: 'DocuSiteF747', // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
